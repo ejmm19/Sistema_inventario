@@ -1,0 +1,241 @@
+#contenido{
+	width: 85%;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+#menux{
+	width: 15%;
+	position: fixed;
+	margin-top: 115px;
+}
+#men{
+	color: #fff;
+	
+}
+#tyi{
+	position: absolute;
+    margin-left: 18%;
+    color: white;
+}
+#msjvacio{
+	display: none;
+}
+#confirm{
+	position: absolute;
+	margin-top: 0%;
+    margin-left: 17%;
+	z-index: 1100;
+	background:#f9f9f9;
+
+}
+.menu-fixed{
+	width: 43%;
+    position: fixed;
+    margin-left: 42%;
+    margin-top: -4%;
+    z-index: 1000;
+    height: 70px;
+	/*margin-left: 15%;
+	
+    
+    top: -19px;
+    width: 46%;
+    max-width: 1000px;
+    
+    */
+}
+#logi{
+	background: rgba(245, 245, 245, 0.63);
+    margin-top: 10%;
+    border-radius: 6px;
+}
+#actualizar{
+	display: none;
+}
+#agg{
+	margin-left: 74%;
+}
+#titlelista{
+	float: left;
+}
+.mediogrid{
+	width: 90%;
+	margin-left: 3%;
+}
+#mostrarprod{
+    
+
+    width: 100%;
+    z-index: 1100;
+}
+#products{
+	overflow: auto;
+	
+}
+#busca{
+	margin-left: 2%;
+}
+#confm{
+	padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 5%;
+	
+	display: none;
+	border-radius: 3px;
+	position: absolute;
+	width: 50%;
+	background:#f9f9f9;
+	margin-left: 15%;
+	-webkit-box-shadow: 0px 0px 92px 9px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 92px 9px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 92px 9px rgba(0,0,0,0.75);
+}
+#confir{
+	padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 5%;
+	margin-top: -10%;
+	display: none;
+	border-radius: 3px;
+	position: absolute;
+	width: 50%;
+	background:#f9f9f9;
+	margin-left: 20%;
+	-webkit-box-shadow: 0px 0px 92px 9px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 92px 9px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 92px 9px rgba(0,0,0,0.75);
+}
+#car{
+	margin-right: 20%;
+}
+.elim{
+	color: #fff;
+    
+    border-color: #d43f3a;
+}
+.total{
+	    font-size: 35px;
+    position: absolute;
+    margin-top: -16%;
+    margin-left: 41%;
+}
+.cant{
+	width: 31%;
+    float: left;
+    margin-right: 10%;
+}
+.cartotal{
+	font-size: 20px;
+    position: absolute;
+    margin-top: -13%;
+    margin-left: 57%;
+}
+.inventdatos{
+	border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;
+	border: 1px solid #999;
+	margin-left: 15%;
+    padding-left: 4%;
+    margin-bottom: -3%;
+}
+.inventdatos>ul{
+	list-style: none;
+}
+.inventdatos>ul>li{
+	display: inline-block;
+}
+#subt{
+	
+}
+.subt{
+	font-size: 25px;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -70px;
+}
+.subto{
+	font-size: 17px;
+    position: absolute;
+    margin-top: 3px;
+    margin-left: -49px;
+}
+#seleccion{
+	    font-size: 15px;
+    position: absolute;
+    z-index: 100;
+    width: 589px;
+    background: #FFF;
+    margin-top: -230%;
+}
+#confiringreso{
+	display: none;
+	border-radius: 6px;
+	border: solid #337ab7;
+	position: fixed;
+    z-index: 1000;
+    width: 35%;
+    margin-top: -10%;
+    margin-left: 21%;
+    background: #FFF;
+    height: 450px;
+    -webkit-box-shadow: 0px 0px 300px 71px rgba(0,0,0,0.13);
+	-moz-box-shadow: 0px 0px 300px 71px rgba(0,0,0,0.13);
+	box-shadow: 0px 0px 300px 71px rgba(0,0,0,0.13);
+}
+#ingresoconf{
+	width: 84%;
+    margin-top: 7%;
+    margin-left: 7%;
+}
+#editcar{
+	z-index: 9999;
+	display: none;
+	margin-top: -26%;
+	width: 50%;
+    margin-left: 22%;
+    position: absolute;
+    border-radius: 6px;
+    border: solid #337ab7;
+}
+#edi{
+	z-index: 9999;
+	display: none;
+	margin-top: -40%;
+	width: 50%;
+    margin-left: 22%;
+    position: absolute;
+    border-radius: 6px;
+    border: solid #337ab7;
+}
+#iframecopy{
+    position: absolute;
+    z-index: 10000;
+    margin-left: 35%;
+    margin-top: 13%;
+    border-radius: 6px;
+}
+.glyphicon-arrow-down{
+	color: green;
+}
+.glyphicon-arrow-up{
+	color: red;
+}
+.glyphicon-share-alt{
+	color: purple;	
+}
+#gdbog{
+	margin-left: 30%;
+    position: absolute;
+}
+.derechosautor{
+	position: absolute;
+    margin-top: 98%;
+    margin-left: 14%;
+    font-size: 8px;
+}
+
+/*/*ESTE CODIGO ES ELABOARO 100% DE LA AUTORÍA DE ERIC JOSE MARTINEZ MUENTES PAGINAS OFFICIALES FB 
+                facebook.com/ejmm19
+                mobiliariosfamarsa.com*/
+
